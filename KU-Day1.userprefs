@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/EnemyController.cs">
+    <Files>
+      <File FileName="Assets/EnemyController.cs" Line="31" Column="45" />
+      <File FileName="Assets/Scripts/SpaceshipController.cs" Line="27" Column="58" />
+      <File FileName="Assets/BulletController.cs" Line="26" Column="4" />
+      <File FileName="Assets/SpawnEnemyController.cs" Line="10" Column="58" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
